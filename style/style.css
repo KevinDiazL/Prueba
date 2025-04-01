@@ -1,10 +1,29 @@
 body {
-    background-color: brown;
+    background-color: #0D5D56;
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    border: 5px coral dotted;
+    border: 5px #8FD5A6 groove;
+    color: #8FD5A6;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: double;
+    text-shadow: 1px 1px 0px white;
+}
+
+section {
+    background-color: #0C8346;
+    border: 2px white inset;
+    margin-right: 15rem;
+}
+
+p,
+li {
+    font-family: 'Times New Roman', Times, serif;
+    color: #8FD5A6;
 }
 
 img {
